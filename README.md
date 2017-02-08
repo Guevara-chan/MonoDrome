@@ -1,2 +1,1 @@
-# MonoDrome
-/prototype 1D-shooter/
+/under construction/
