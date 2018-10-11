@@ -8,7 +8,7 @@ Powered by simple pixel-art, it offers experience akin Guitar Hero for deaf.
 * No dodging, straing, AoE or other flashy >1D stuff.
 
 # /Reassembling/:
-SlipperyClip is written completely in [PureBasic v4.40](http://purebasic.com) using default DX7 graphics system.  
+__MonoDrome__ is written completely in [PureBasic v4.40](http://purebasic.com) using default DX7 graphics system.  
 ❗ It's was yet to be adapted for modern compiler revisions ❗
 
 # /Brief sampling of 1D greatness/:
