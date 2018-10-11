@@ -9,7 +9,7 @@ Powered by simple pixel-art, it offers experience akin Guitar Hero for deaf.
 
 # /Reassembling/:
 SlipperyClip is written completely in [PureBasic v4.40](http://purebasic.com) using default DX7 graphics system.  
-It's fully compatible with any Windows operational system, starting from XP and beyond.
+❗ It's was yet to be adapted for modern compiler revisions ❗
 
 # /Brief sampling of 1D greatness/:
 ![image](https://user-images.githubusercontent.com/8768470/46798460-a98ad980-cd5a-11e8-9144-c3d24e28653c.png)
