@@ -2,7 +2,7 @@
 __MonoDrome__ is an avangarde 1D-shooter, made in 24 hours as gamedev exercise.  
 Powered by simple pixel-art, it offers experience akin Guitar Hero for deaf.
 
-# /Featurae/:
+# /Featuræ/:
 * Single executible with no external dependencies.
 * Infinite gameplay for hardcore keyboard-breakers.
 * No dodging, straing, AoE or other flashy >1D stuff.
