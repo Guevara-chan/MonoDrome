@@ -12,4 +12,5 @@ SlipperyClip is written completely in PureBasic v4.40 using default DX7 graphics
 It's fully compatible with any Windows operational system, starting from XP and beyond.
 
 # /Brief sampling of 1D greatness/:
+![image](https://user-images.githubusercontent.com/8768470/46798460-a98ad980-cd5a-11e8-9144-c3d24e28653c.png)
 ![image](https://user-images.githubusercontent.com/8768470/46798416-8829ed80-cd5a-11e8-88ac-37b195decb43.png)
