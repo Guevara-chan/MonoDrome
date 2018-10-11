@@ -1,7 +1,7 @@
-; *=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*
+; *=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*
 ; MonoDrome v1.0 (Release)
-; Developed in 2009 by Chrono Syndrome.
-; *=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*
+; Developed in 2009 by Guevara-chan.
+; *=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*
 
 EnableExplicit
 InitSprite()
@@ -35,7 +35,7 @@ EndEnumeration
 #ScreenWidth = 400
 #ScreenHeight = 400
 #WindowParams = #PB_Window_ScreenCentered | #PB_Window_MinimizeGadget
-#Caption = "Developed in 2009 by Chrono Syndrome."
+#Caption = "Developed in 2009 by Guevara-chan."
 #TSHint = "Press any key to begin..."
 #Title = ".[MonoDrome]."
 #MainWindow = 0
@@ -556,7 +556,7 @@ UpdateEffects()
 Vizualization()
 WaitForSingleObject_(System\FPSTimer, #INFINITE)
 ForEver
-; IDE Options = PureBasic 5.21 LTS (Windows - x86)
+; IDE Options = PureBasic 5.40 LTS (Windows - x86)
 ; Folding = ---
 ; UseIcon = Resources\ExeIcon.ico
 ; Executable = MonoDrome.exe
