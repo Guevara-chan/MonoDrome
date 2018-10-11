@@ -8,7 +8,8 @@ Powered by simple pixel-art, it offers experience akin Guitar Hero for deaf.
 * No dodging, straing, AoE or other flashy >1D stuff.
 
 # /Reassembling/:
-SlipperyClip is written completely in PureBasic v4.40 using default DX7 graphics system.
+SlipperyClip is written completely in PureBasic v4.40 using default DX7 graphics system.  
 It's fully compatible with any Windows operational system, starting from XP and beyond.
 
 # /Brief sampling of 1D greatness/:
+![image](https://user-images.githubusercontent.com/8768470/46798416-8829ed80-cd5a-11e8-88ac-37b195decb43.png)
